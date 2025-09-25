@@ -8,7 +8,7 @@ import 'react-circular-progressbar/dist/styles.css';
 import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
-import React, { useState,useEffect } from 'react';
+import  { useState,useEffect } from 'react';
 import axios from 'axios';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
